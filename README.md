@@ -1,4 +1,4 @@
-# Startup Funding AI - Multilingual RAG Platform
+# DealFlow AI - Multilingual RAG Platform
 
 A production-ready multilingual RAG-based Startup Funding Intelligence Platform built for hackathons. This platform enables founders to upload pitch decks and get AI-powered funding intelligence, while VCs can discover matching startups based on their investment thesis.
 
